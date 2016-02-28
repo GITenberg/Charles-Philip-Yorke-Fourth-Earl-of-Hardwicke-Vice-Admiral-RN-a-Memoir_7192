@@ -1,0 +1,22 @@
+_repo: Charles-Philip-Yorke-Fourth-Earl-of-Hardwicke-Vice-Admiral-RN-a-Memoir_7192
+creator:
+  author:
+    agent_name: Biddulph, Elizabeth Philippa Yorke, baroness
+    alias: Ledbury, Lady Biddulph of
+    birthdate: 1834
+    gutenberg_agent_id: '2371'
+    url: http://www.gutenberg.org/2009/agents/2371
+description: ''
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7192'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hardwicke, Charles Philip Yorke, Earl of, 1799-1873'
+- !lcc 'DA'
+title: Charles Philip Yorke, Fourth Earl of Hardwicke, Vice-Admiral R.N. — a Memoir
+url: http://www.gutenberg.org/ebooks/7192
