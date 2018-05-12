@@ -1,4 +1,8 @@
 _repo: Charles-Philip-Yorke-Fourth-Earl-of-Hardwicke-Vice-Admiral-RN-a-Memoir_7192
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Biddulph, Elizabeth Philippa Yorke, baroness
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '2371'
     url: http://www.gutenberg.org/2009/agents/2371
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7192#Charles-Philip-Yorke-Fourth-Earl-of-Hardwicke-Vice-Admiral-RN-a-Memoir
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
 identifiers:
